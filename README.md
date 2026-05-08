@@ -58,8 +58,8 @@ One limitation of the final prompt is that the output quality still depends heav
 ## Output Image
 
 <p align="center">
-  <img src="output/output1.png" width="45%">
-  <img src="output/output2.png" width="45%">
+  <img src="output/output1.png">
+  <img src="output/output2.png">
 </p>
 
 <p align="center">
