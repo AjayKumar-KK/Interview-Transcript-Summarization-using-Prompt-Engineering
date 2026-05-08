@@ -75,7 +75,3 @@ One limitation of the final prompt is that the output quality still depends heav
 - Google Gemini API
 - Prompt Engineering
 - Large Language Models (LLMs)
-
-___
-
-### Thank You
