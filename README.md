@@ -57,6 +57,11 @@ One limitation of the final prompt is that the output quality still depends heav
 
 ## Output Image
 
-```md
-![Output](output/output.png)
-```
+<p align="center">
+  <img src="output/output1.png" width="45%">
+  <img src="output/output2.png" width="45%">
+</p>
+
+<p align="center">
+  <b>Streamlit Application Interface</b>
+</p>
