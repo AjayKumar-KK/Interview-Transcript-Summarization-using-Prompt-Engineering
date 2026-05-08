@@ -65,3 +65,15 @@ One limitation of the final prompt is that the output quality still depends heav
 <p align="center">
   <b>Streamlit Application Interface</b>
 </p>
+
+---
+
+# Tech Stack
+
+- Python
+- Streamlit
+- Google Gemini API
+- Prompt Engineering
+- Large Language Models (LLMs)
+
+---
